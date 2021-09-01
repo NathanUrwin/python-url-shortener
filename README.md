@@ -7,7 +7,7 @@ This is a sample project of a Python URL Shortner REST API. Time spent: ~1 hour
 * [Requirements](#requirements)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing))
+* [Contributing](#contributing)
 * [Resources](#resources)
 
 ## Requirements
